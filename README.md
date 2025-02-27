@@ -16,7 +16,7 @@ CSS
 JavaScript
 
 🎯 Live Demo  
-Check out my portfolio live at: [Click Here](https://limbasiyadev.github.io/portfolio-website/) 🚀  
+Check out my portfolio live at: [Click Here](https://devlimbasiyaportfolio.web.app) 🚀  
 
 📨 Contact Me  
 📧 Email: [limbasiyadev232004@gmail.com](mailto:limbasiyadev232004@gmail.com)  
