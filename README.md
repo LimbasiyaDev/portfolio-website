@@ -17,4 +17,4 @@ Check out my portfolio live at: [Click Here](https://devlimbasiyaportfolio.web.a
 
 📨 Contact Me  
 📧 Email: [limbasiyadev232004@gmail.com](mailto:limbasiyadev232004@gmail.com)  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/devlimbasiya/)  
+💼 LinkedIn: [DevLimbasiya](https://www.linkedin.com/in/devlimbasiya/)  
